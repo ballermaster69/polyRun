@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5e9a8003d0b1934bb71b4f8eaa6b29d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  challengeObject: {fileID: 0}
+  challengeObject: {fileID: 7509607270785177467, guid: e2411efab6f21de4188edf4497458dbb, type: 3}
   spawnDelay: 1
   spawnTime: 2
 --- !u!4 &521439141
